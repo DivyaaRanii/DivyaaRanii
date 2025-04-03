@@ -1,5 +1,9 @@
 <!-- 🚀 Hi Header -->
-<h1 align="center">Hey there! 👋 I'm Divya Rani</h1>
+<h1 align="center">Hey there! 👋 I'm Divya Rani✨</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=700&lines=🐞+Bug+Hunter+|+Fixing+Code+One+Glitch+at+a+Time!+🚀" alt="Typing SVG">
+
+
 <h3 align="center">A Passionate Full Stack Developer 🚀</h3>
 
 <!-- Cool Header Image -->
@@ -45,9 +49,8 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaRani01&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaRani01&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
