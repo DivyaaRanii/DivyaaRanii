@@ -1,5 +1,5 @@
 <!-- 🚀 Hi Header -->
-<h1 align="center">Hey there! 👋 I'm Divya Rani✨</h1>
+<h1 align="center">Hey there! 👋 I'm Divyaa Ranii✨</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=700&lines=🐞+Bug+Hunter+|+Fixing+Code+One+Glitch+at+a+Time!+🚀" alt="Typing SVG">
 
