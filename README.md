@@ -41,9 +41,9 @@
 | 🚀 Project | 🔗 Tech Stack | 📜 Description |
 |---------|-----------|-------------|
 | [Tattoo Haven](https://github.com/yourusername/tattoo-haven) | `Spring Boot`, `PostgreSQL`, `Elasticsearch`, `Docker` | API-driven platform for tattoo studios & artists. |
-| [Analytics Service](https://github.com/yourusername/analytics-service) | `Java`, `Spring`, `Microservices` | A scalable service for managing analytics. |
+| [Analytics Service]([https://github.com/DivyaaRanii) | `Java`, `Spring`, `Microservices` | A scalable service for managing analytics. |
 
-> 📌 **Check out my repos:** 👉 [GitHub Profile](https://github.com/DivyaRani01)
+> 📌 **Check out my repos:** 👉 [GitHub Profile](https://github.com/DivyaaRanii)
 
 ---
 
